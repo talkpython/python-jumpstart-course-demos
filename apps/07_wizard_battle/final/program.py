@@ -14,7 +14,7 @@ def print_header():
     # but I thought you'd get a kick out if it. ;)
     print()
     print('-----------------------------------------------------------------------')
-    print("""
+    print(r"""
    (  )   /\   _                 (
     \ |  (  \ ( \.(               )                      _____
   \  \ \  `  `   ) \             (  ___                 / _   \\
